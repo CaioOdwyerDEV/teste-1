@@ -2,4 +2,8 @@
 
 ## Fazendo o commit
 
-* adicionando funcionalidades
+*atualização nova
+
+*funcionalidade nova
+
+*new worldgit
