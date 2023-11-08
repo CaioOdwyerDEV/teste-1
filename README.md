@@ -7,3 +7,5 @@
 *funcionalidade nova
 
 *new worldgit
+
+*command pull
