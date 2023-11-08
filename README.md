@@ -9,3 +9,5 @@
 *new worldgit
 
 *command pull
+
+*command fecth
